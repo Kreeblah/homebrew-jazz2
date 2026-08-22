@@ -9,7 +9,7 @@ cask "jazz2" do
       verified: "github.com/deathkiller/jazz2/"
   name "Jazz² Resurrection"
   desc "Open-source reimplementation of Jazz Jackrabbit 2"
-  homepage "https://deat.tk/jazz2/"
+  homepage "https://de4th.dev/jazz2/"
 
   container nested: "#{arch}/jazz2_sdl2.dmg"
 
